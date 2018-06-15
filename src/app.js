@@ -1,4 +1,4 @@
 // import train from './layers'
-import model from './pretrained'
+import init from './pretrained'
 
-model()
+init()
